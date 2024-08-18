@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Gellert 👋
+# Hi
 
 **Full Stack Developer | IT Security Enthusiast**
 
