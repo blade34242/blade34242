@@ -25,7 +25,7 @@
 - **[Project 6](https://github.com/blade34242/WebVulnScannerScripts)**: This repository contains scripts for scanning web applications for common vulnerabilities. These scripts automate the detection of security flaws, helping to secure web applications by identifying potential weaknesses. Key tech stack: Python, Web Security.
 - **[Project 7](https://github.com/blade34242/my-resume2)**: A personal resume project built with EJS (Embedded JavaScript) templates. This project showcases your professional experience and skills in a well-structured and dynamic format. Key tech stack: EJS, HTML, CSS.
 
-Check out more of my repositories [here](https://github.com/yourusername?tab=repositories).
+Check out more of my repositories [here](https://github.com/blade34242?tab=repositories).
 
 ### 🏅 Certifications:
 - **CompTIA Security+ (2023)**
